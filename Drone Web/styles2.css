@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(16, 15, 20);
+    background-image: url();
+ }
+ h1{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    text-shadow: 0 0 3px rgb(196, 195, 195);
+    cursor: default;
+    font-family: 'poppins', sans-serif;
+    margin-left: 47%;
+    margin-top: -20px;
+ }
+
+ .fa-solid{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top:20px;
+ }
+
+ .vi{
+    height: 81%;
+    width: 65%;
+    margin-left: 19%;
+    margin-top: 1%;
+    border-radius: 10px;
+    position: relative;
+ }
